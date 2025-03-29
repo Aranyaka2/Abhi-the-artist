@@ -5041,7 +5041,7 @@ p {
 }
 
 /* Mobile adjustments */
-@media screen and (max-width: 736px) {
+@media screen and (max-width: 636px) {
     .image.uniform {
         height: 200px; /* Smaller height on mobile */
     }
